@@ -90,3 +90,6 @@ if __name__ == "__main__":
     print("neighbors of 1:", list(G.nbrs(1)))
     print("neighbors of 2:", list(G.nbrs(2)))
     print("neighbors of 3:", list(G.nbrs(3)))
+
+
+# there are problems with the neightbors of 2 and 3, i think it's something to do with the add edge method
